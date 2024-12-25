@@ -376,6 +376,9 @@ Fatty acids, total trans0.0G
 [Waymo User Reviews](http://www.deepnlp.org/store/pub/pub-waymo-google) <br>
 [ANYbotics Reviews](http://www.deepnlp.org/store/pub/pub-anybotics) <br>
 [Boston Dynamics](http://www.deepnlp.org/store/pub/pub-boston-dynamic) <br>
+## Reasoning
+[OpenAI o1 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o1) <br>
+[OpenAI o3 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o3) <br>
 ##### AI Tools
 [DeepNLP AI Tools](http://www.deepnlp.org/store/pub/pub-deepnlp-ai) <br>
 ##### AI Widgets
