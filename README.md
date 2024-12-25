@@ -318,9 +318,13 @@ Fatty acids, total trans0.0G
 
 ### Agents Related Pipeline Workflow and Document
 #### Search AI Agent & Robotics
-[AI & Robot Comprehensive Search](http://www.deepnlp.org/search) <br>
-[AI Agent Search](http://www.deepnlp.org/search/agent) <br>
+[AI Agent Marketplace and Search](http://www.deepnlp.org/search/agent) <br>
 [Robot Search](http://www.deepnlp.org/search/robot) <br>
+[Equation and Academic search](http://www.deepnlp.org/search/equation) <br>
+[AI & Robot Comprehensive Search](http://www.deepnlp.org/search) <br>
+[AI & Robot Question](http://www.deepnlp.org/question) <br>
+[AI & Robot Community](http://www.deepnlp.org/community) <br>
+[AI Agent Marketplace Blog](http://www.deepnlp.org/blog/ai-agent-marketplace-and-search-portal-reviews-2025) <br>
 
 #### AI Agent
 [Microsoft AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-microsoft-ai-agent) <br>
@@ -329,6 +333,7 @@ Fatty acids, total trans0.0G
 [AgentGPT AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-agentgpt) <br>
 [Saleforce AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-salesforce-ai-agent) <br>
 [Google AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-google-ai-agent) <br>
+[AI Agent Builder Reviews](http://www.deepnlp.org/store/ai-agent/ai-agent-builder) <br>
 [AI Agent Board Visualization](https://ai-hub-admin.github.io/agentboard) <br>
 [AI Agent Board](https://ai-hub-admin.github.io/agentboard) <br>
 [AI Agent Pro Master](https://agentpromaster.github.io/ai-agent) <br>
