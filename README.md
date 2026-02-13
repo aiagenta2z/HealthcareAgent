@@ -2,7 +2,7 @@
 
 This is the official github repo of pypi package HeathcareAgent. This repo is intended to provide common APIs interface to help develop Healthcare related AI Agents.
 
-*** IMPORTANT LEGAL DISCLAIMER ***
+***IMPORTANT LEGAL DISCLAIMER***
 
 HeathcareAgent is not affiliated, endorsed, or vetted by Heathcare Agents or Institutions. It's an open-source tool that uses finance APIs.
 
@@ -54,6 +54,8 @@ Here are some key professionals whose workflow and productivity can be improved 
 |  API NAME  | SOURCE | WEBSITE |DESCRIPTION  |
 |  ----  | ----  | ----  | ---- |
 |  food_calories_usda  | USDA | https://fdc.nal.usda.gov/ |U.S. Department of Agriculture Food Search for Ingredients and Calories |
+| Supplement Drug Interaction Safety | Truthstack Co | https://api.truthstack.co/api/interactions/check | Truthstack Co |
+
 
 
 ![USDA Food Ingredients and Energies](https://raw.githubusercontent.com/AI-Hub-Admin/HealthcareAgent/refs/heads/main/doc/usda_demo.jpg?raw=true)
