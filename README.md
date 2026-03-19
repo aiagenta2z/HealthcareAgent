@@ -46,7 +46,8 @@ Here are some key professionals whose workflow and productivity can be improved 
 |  Elderly Care and Accessibility |  [EllieQ by Intuition Robotics](https://elliq.com/) |  AI companion for reducing loneliness and enhancing quality of life in seniors. | 
 |  Elderly Care and Accessibility |  [Paro Robot](https://www.parorobots.com/) | Therapeutic AI robot designed for dementia and Alzheimer’s patients. | 
 |  Workflow Optimization |  [DeepScribe](https://www.deepscribe.ai/) | AI-powered medical scribe to automate clinical documentation. | 
-|  Workflow Optimization |  [Nuance Dragon Medical](https://www.nuance.com/healthcare/dragon-ai-clinical-solutions.html) | Speech recognition AI for documenting patient encounters. | 
+|  Workflow Optimization |  [Nuance Dragon Medical](https://www.nuance.com/healthcare/dragon-ai-clinical-solutions.html) | Speech recognition AI for documenting patient encounters. |
+|  Healthcare Administration |  [Healthcare Admin Agents](https://github.com/ajhcs/healthcare-agents) | 51 open-source AI agents with MHA-level expertise across 10 divisions including revenue cycle, compliance, quality, clinical ops, payer relations, health IT, and pharmacy. Features real regulatory citations (42 CFR, CMS) and works with Claude Code, Codex CLI, and Gemini CLI. | 
 
 
 ### AI Agent for Healthcare Common APIs
