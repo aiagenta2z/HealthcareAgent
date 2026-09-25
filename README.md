@@ -24,7 +24,8 @@ Here are some key professionals whose workflow and productivity can be improved 
 |  ----  | ----  | ----  |
 |  Clinical Decision Support  | [IBM Watson Health](https://www.ibm.com/industries/healthcare) |  Helps analyze medical literature and patient data to provide evidence-based treatment recommendations. | 
 |  Clinical Decision Support  | [Infermedica](https://infermedica.com/) |  Provides diagnostic support and triage for healthcare professionals. | 
-|  Clinical Decision Support  | [Buoy Health](https://www.buoyhealth.com/) |  A chatbot for symptom checking and guiding users to appropriate care. | 
+|  Clinical Decision Support  | [Buoy Health](https://www.buoyhealth.com/) |  A chatbot for symptom checking and guiding users to appropriate care. |
+|  Clinical Decision Support  | [Yuan Doctor](https://www.yuandoctor.com/en) |  Browser-local bedside scores and pathways (sepsis, stroke, PE, AF, VTE) for licensed clinicians; no patient-data upload. | 
 |  Virtual Health Assistants  | [Ada Health](https://ada.com/) |  Symptom checker and health assessment app with AI-driven insights. | 
 |  Virtual Health Assistants  | [Babylon Health](https://en.wikipedia.org/wiki/Babylon_Health) |  Provides symptom checks, virtual consultations, and health monitoring tools. | 
 |  Virtual Health Assistants  | [Sensely](https://apps.apple.com/us/app/sensely/id871632284) |  A virtual assistant for managing chronic conditions and improving patient engagement. | 
