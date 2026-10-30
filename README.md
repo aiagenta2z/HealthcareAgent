@@ -56,6 +56,7 @@ Here are some key professionals whose workflow and productivity can be improved 
 |  ----  | ----  | ----  | ---- |
 |  food_calories_usda  | USDA | https://fdc.nal.usda.gov/ |U.S. Department of Agriculture Food Search for Ingredients and Calories |
 | Supplement Drug Interaction Safety | Truthstack Co | https://api.truthstack.co/api/interactions/check | Truthstack Co |
+| OMOP Medical Vocabulary Lookup | OMOPHub | https://omophub.com/ | OHDSI OMOP vocabularies API (11M+ concepts: SNOMED CT, ICD-10, LOINC, RxNorm) with concept search, mappings and an MCP server for AI agents |
 
 
 
